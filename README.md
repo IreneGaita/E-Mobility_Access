@@ -80,6 +80,15 @@ The growing adoption of electric vehicles (EVs) necessitates a well-distributed 
 
 ---
 
+## Data
+Due to GitHub storage limits, large files are stored externally.  
+You can download the necessary files from the following link:  
+
+- [Download Material (Google Drive)] (https://drive.google.com/drive/folders/1GoQsoRoxkE2Ndxjz37YJuGbVZpL2zCug?usp=sharing)
+
+After downloading, place the files in the appropriate directory before running the code.
+
+---
 #### Author & Contact
 📧   **Email**: igaita3107@gmail.com
 🔗   **LinkedIn**: www.linkedin.com/in/irene-gaita-4ba32822b
